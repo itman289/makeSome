@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(15, 152, 85);
+}
+#menu {
+  text-align: right;
+  color: white;
+  font-size: 10pt;
+  word-spacing: 8pt;
+  padding: 10pt 10pt 35pt 0pt;
+  margin-bottom: 50pt;
+}
+#name {
+  margin-top: 12pt;
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 58pt;
+}
+#empty {
+  margin-top: 27pt;
+  margin-left: auto;
+  margin-right: auto;
+  width: 415pt;
+  height: 33pt;
+  background-color: white;
+  border-width: 1pt;
+  border-style: solid;
+  border-top-left-radius: 15pt;
+  border-bottom-left-radius: 15pt;
+  border-top-right-radius: 15pt;
+  border-bottom-right-radius: 15pt;
+  border-right-color: chartreuse;
+  border-left-color: coral;
+}
+#searchText {
+  margin-top: 9pt;
+  margin-bottom: 6pt;
+  margin-left: 40pt;
+  color: grey;
+  font-size: 11pt;
+}
+#directGo {
+  justify-content: center;
+  display: flex;
+  color: white;
+  font-size: 10.1pt;
+}
+#bottom {
+  justify-content: left;
+  display: flex;
+  margin-top: 395pt;
+  margin-left: 23pt;
+  color: white;
+  font-size: 10.5pt;
+}
